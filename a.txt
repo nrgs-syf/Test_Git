@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 hello.
 
-=======
-bay.
->>>>>>> 6ae2d3af203a1bc2de807ee18dc486581a8eb6a3
